@@ -5,9 +5,8 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: `parkhj062@gmail.com``
-- linkedin: hojeongpark(https://www.linkedin.com/in/hojeong-park-813175181/)
-- instagram: bako94__
+- 📫 How to reach me: parkhj062@gmail.com
+- linkedin: https://www.linkedin.com/in/hojeong-park-813175181/
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
