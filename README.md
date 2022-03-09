@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on @creatrip
 - 🌱 I’m currently learning @architecture
-- 📫 How to reach me: parkhj062@gmail.com
+- email: parkhj062@gmail.com
 - linkedin: https://www.linkedin.com/in/hojeong-park-813175181/
 
 <!--
