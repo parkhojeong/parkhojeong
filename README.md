@@ -2,13 +2,8 @@
 
 - 🔭 I’m currently working on @creatrip
 - 🌱 I’m currently learning @architecture
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: parkhj062@gmail.com
 - linkedin: https://www.linkedin.com/in/hojeong-park-813175181/
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
 
 <!--
 **parkhojeong/parkhojeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
