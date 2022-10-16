@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [creatrip](https://creatrip.com/)
-- 🌱 I’m currently learning `architecture for maintainance software and testable code`, `functional programming`, etc
+- 🌱 I’m interested in `refactoring`, `readibility`, `architecture` etc
 - email: parkhj062@gmail.com
 - linkedin: [hojeong-park](https://www.linkedin.com/in/hojeong-park-813175181/)
 
